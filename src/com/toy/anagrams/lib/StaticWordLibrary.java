@@ -31,6 +31,8 @@
 
 package com.toy.anagrams.lib;
 
+/* Anagram Game Application */
+
 /**
  * Implementation of the logic for the Anagram Game application.
  */
@@ -71,7 +73,6 @@ final class StaticWordLibrary extends WordLibrary {
         "polymorphic",
         "rigorously",
         "simultaneously",
-        "specification",
         "structure",
         "lexical",
         "likewise",
