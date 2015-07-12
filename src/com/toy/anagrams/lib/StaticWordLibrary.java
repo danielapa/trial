@@ -33,6 +33,10 @@ package com.toy.anagrams.lib;
 
 /* Anagram Game Application */
 
+/*HELLO*/
+
+/*SWAG*/
+
 /**
  * Implementation of the logic for the Anagram Game application.
  */
@@ -44,6 +48,7 @@ final class StaticWordLibrary extends WordLibrary {
         "arithmetic",
         "backslash",
         "bitmap",
+        "hello",
         "circumstance",
         "combination",
         "consequently",
@@ -102,7 +107,6 @@ final class StaticWordLibrary extends WordLibrary {
         "qeiuaveltn",
         "xerpseisno",
         "aficilatet",
-        "rfgaemtn",
         "ehaxedicalm",
         "milpmeneatitno",
         "niidtsniugsiahleb",
